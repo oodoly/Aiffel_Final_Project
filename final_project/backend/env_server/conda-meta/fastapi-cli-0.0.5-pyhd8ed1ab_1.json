@@ -1,0 +1,192 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.8",
+    "typer >=0.12.3",
+    "uvicorn-standard >=0.15.0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/fastapi-cli-0.0.5-pyhd8ed1ab_1",
+  "files": [
+    "lib/python3.9/site-packages/fastapi_cli-0.0.5.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/fastapi_cli-0.0.5.dist-info/METADATA",
+    "lib/python3.9/site-packages/fastapi_cli-0.0.5.dist-info/RECORD",
+    "lib/python3.9/site-packages/fastapi_cli-0.0.5.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/fastapi_cli-0.0.5.dist-info/WHEEL",
+    "lib/python3.9/site-packages/fastapi_cli-0.0.5.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/fastapi_cli-0.0.5.dist-info/entry_points.txt",
+    "lib/python3.9/site-packages/fastapi_cli-0.0.5.dist-info/licenses/LICENSE",
+    "lib/python3.9/site-packages/fastapi_cli/__init__.py",
+    "lib/python3.9/site-packages/fastapi_cli/__main__.py",
+    "lib/python3.9/site-packages/fastapi_cli/cli.py",
+    "lib/python3.9/site-packages/fastapi_cli/discover.py",
+    "lib/python3.9/site-packages/fastapi_cli/exceptions.py",
+    "lib/python3.9/site-packages/fastapi_cli/logging.py",
+    "lib/python3.9/site-packages/fastapi_cli/py.typed",
+    "lib/python3.9/site-packages/fastapi_cli/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/fastapi_cli/__pycache__/__main__.cpython-39.pyc",
+    "lib/python3.9/site-packages/fastapi_cli/__pycache__/cli.cpython-39.pyc",
+    "lib/python3.9/site-packages/fastapi_cli/__pycache__/discover.cpython-39.pyc",
+    "lib/python3.9/site-packages/fastapi_cli/__pycache__/exceptions.cpython-39.pyc",
+    "lib/python3.9/site-packages/fastapi_cli/__pycache__/logging.cpython-39.pyc",
+    "bin/fastapi"
+  ],
+  "fn": "fastapi-cli-0.0.5-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/fastapi-cli-0.0.5-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "d141225aba450ec07c771c73ac57bb43",
+  "name": "fastapi-cli",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/fastapi-cli-0.0.5-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/fastapi_cli-0.0.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/fastapi_cli-0.0.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cc1f7b8aec85c83904733413b591084ea4a9e13e0581a9ae55a1da106149c714",
+        "sha256_in_prefix": "cc1f7b8aec85c83904733413b591084ea4a9e13e0581a9ae55a1da106149c714",
+        "size_in_bytes": 6970
+      },
+      {
+        "_path": "site-packages/fastapi_cli-0.0.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c47195d6d264ecf812eb795e3c029488d4a879ecc313fbd7179a71f5880e7895",
+        "sha256_in_prefix": "c47195d6d264ecf812eb795e3c029488d4a879ecc313fbd7179a71f5880e7895",
+        "size_in_bytes": 1642
+      },
+      {
+        "_path": "site-packages/fastapi_cli-0.0.5.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/fastapi_cli-0.0.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a4cd08041e99c07de79043e1b5ca79d0abca357fb4ee362d9dbd60d66e99e02a",
+        "sha256_in_prefix": "a4cd08041e99c07de79043e1b5ca79d0abca357fb4ee362d9dbd60d66e99e02a",
+        "size_in_bytes": 90
+      },
+      {
+        "_path": "site-packages/fastapi_cli-0.0.5.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "69e6e630e5c6105857f457c5b58577fc8689fe748c49ee1d079456f4e0d08d4d",
+        "sha256_in_prefix": "69e6e630e5c6105857f457c5b58577fc8689fe748c49ee1d079456f4e0d08d4d",
+        "size_in_bytes": 107
+      },
+      {
+        "_path": "site-packages/fastapi_cli-0.0.5.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "2fe7700cb18084e94155a76ae5c0c1001d62f32e28485b9e5f4d80e2098c29ca",
+        "sha256_in_prefix": "2fe7700cb18084e94155a76ae5c0c1001d62f32e28485b9e5f4d80e2098c29ca",
+        "size_in_bytes": 65
+      },
+      {
+        "_path": "site-packages/fastapi_cli-0.0.5.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "16a0f907855b5c99de7e9ad0b1e13453c9652fa171a230be8bc9ae672ed89925",
+        "sha256_in_prefix": "16a0f907855b5c99de7e9ad0b1e13453c9652fa171a230be8bc9ae672ed89925",
+        "size_in_bytes": 1086
+      },
+      {
+        "_path": "site-packages/fastapi_cli/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4bbbb595bb9698cdc0dda8f290189a9663e82542ba260f9698da8cfbd39915d9",
+        "sha256_in_prefix": "4bbbb595bb9698cdc0dda8f290189a9663e82542ba260f9698da8cfbd39915d9",
+        "size_in_bytes": 22
+      },
+      {
+        "_path": "site-packages/fastapi_cli/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "6d8b7d7846a845059d7a3107143f11131f63c5511d669b44085b15ec5e3d2279",
+        "sha256_in_prefix": "6d8b7d7846a845059d7a3107143f11131f63c5511d669b44085b15ec5e3d2279",
+        "size_in_bytes": 30
+      },
+      {
+        "_path": "site-packages/fastapi_cli/cli.py",
+        "path_type": "hardlink",
+        "sha256": "a3b751c447d9fe504eef66fa4591006bfc0ab9ada990ae64a7a46be4f85930be",
+        "sha256_in_prefix": "a3b751c447d9fe504eef66fa4591006bfc0ab9ada990ae64a7a46be4f85930be",
+        "size_in_bytes": 9278
+      },
+      {
+        "_path": "site-packages/fastapi_cli/discover.py",
+        "path_type": "hardlink",
+        "sha256": "9c08585b86db78ceee3b258b132e1fd018a524d9d8d5fc64f6ad7b73ff7bdd63",
+        "sha256_in_prefix": "9c08585b86db78ceee3b258b132e1fd018a524d9d8d5fc64f6ad7b73ff7bdd63",
+        "size_in_bytes": 5416
+      },
+      {
+        "_path": "site-packages/fastapi_cli/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "007452a9de377dba8de48a57f85ab7f3d93d32810afeadbcc1514bee8a8f35c7",
+        "sha256_in_prefix": "007452a9de377dba8de48a57f85ab7f3d93d32810afeadbcc1514bee8a8f35c7",
+        "size_in_bytes": 47
+      },
+      {
+        "_path": "site-packages/fastapi_cli/logging.py",
+        "path_type": "hardlink",
+        "sha256": "948eeb22c8a84c942cc43b96a46e5847f6eb5a9200518e2f0e78589b9a7dd70b",
+        "sha256_in_prefix": "948eeb22c8a84c942cc43b96a46e5847f6eb5a9200518e2f0e78589b9a7dd70b",
+        "size_in_bytes": 664
+      },
+      {
+        "_path": "site-packages/fastapi_cli/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fastapi_cli/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fastapi_cli/__pycache__/__main__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fastapi_cli/__pycache__/cli.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fastapi_cli/__pycache__/discover.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fastapi_cli/__pycache__/exceptions.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fastapi_cli/__pycache__/logging.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/fastapi",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2294f02beff318614a737454f1a432a6f4ae22216a85b296b7041fedab293516",
+  "size": 14441,
+  "subdir": "noarch",
+  "timestamp": 1728947860000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/fastapi-cli-0.0.5-pyhd8ed1ab_1.conda",
+  "version": "0.0.5"
+}

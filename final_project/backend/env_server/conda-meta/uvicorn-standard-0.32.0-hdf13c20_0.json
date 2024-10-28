@@ -1,0 +1,38 @@
+{
+  "build": "hdf13c20_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "httptools >=0.5.0",
+    "python-dotenv >=0.13",
+    "python_abi 3.9.* *_cp39",
+    "pyyaml >=5.1",
+    "uvicorn 0.32.0 py39h2804cbe_0",
+    "uvloop >=0.14.0,!=0.15.0,!=0.15.1",
+    "watchfiles >=0.13",
+    "websockets >=10.4"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/uvicorn-standard-0.32.0-hdf13c20_0",
+  "files": [],
+  "fn": "uvicorn-standard-0.32.0-hdf13c20_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/uvicorn-standard-0.32.0-hdf13c20_0",
+    "type": 1
+  },
+  "md5": "7fbb3e65ef070aa64c3a648a773b8cac",
+  "name": "uvicorn-standard",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/uvicorn-standard-0.32.0-hdf13c20_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "293a0385dc734793f6e9f79aada53c3c1b75d98457731fb026fe67b447c4043a",
+  "size": 7287,
+  "subdir": "osx-arm64",
+  "timestamp": 1729084682000,
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/uvicorn-standard-0.32.0-hdf13c20_0.conda",
+  "version": "0.32.0"
+}

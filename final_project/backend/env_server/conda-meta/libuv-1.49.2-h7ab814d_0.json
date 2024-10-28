@@ -1,0 +1,114 @@
+{
+  "build": "h7ab814d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "__osx >=11.0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/libuv-1.49.2-h7ab814d_0",
+  "files": [
+    "include/uv.h",
+    "include/uv/darwin.h",
+    "include/uv/errno.h",
+    "include/uv/threadpool.h",
+    "include/uv/unix.h",
+    "include/uv/version.h",
+    "lib/libuv.1.dylib",
+    "lib/libuv.a",
+    "lib/libuv.dylib",
+    "lib/pkgconfig/libuv.pc"
+  ],
+  "fn": "libuv-1.49.2-h7ab814d_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/libuv-1.49.2-h7ab814d_0",
+    "type": 1
+  },
+  "md5": "4bc348e3a1a74d20a3f9beb866d75e0a",
+  "name": "libuv",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/libuv-1.49.2-h7ab814d_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/uv.h",
+        "path_type": "hardlink",
+        "sha256": "7262275e50a1bf5820072946868905c00aa536465f2cfdcd79dc652bc53d048d",
+        "sha256_in_prefix": "7262275e50a1bf5820072946868905c00aa536465f2cfdcd79dc652bc53d048d",
+        "size_in_bytes": 71889
+      },
+      {
+        "_path": "include/uv/darwin.h",
+        "path_type": "hardlink",
+        "sha256": "222b6dd3ce67cfbb735b14b1662f065fc23570d6969acf463b39d946b7590d8c",
+        "sha256_in_prefix": "222b6dd3ce67cfbb735b14b1662f065fc23570d6969acf463b39d946b7590d8c",
+        "size_in_bytes": 3213
+      },
+      {
+        "_path": "include/uv/errno.h",
+        "path_type": "hardlink",
+        "sha256": "53cdd62b9686b8b0e7b2230c9b5459b2ec1053be878c40b8b12e25dc5d3a0f57",
+        "sha256_in_prefix": "53cdd62b9686b8b0e7b2230c9b5459b2ec1053be878c40b8b12e25dc5d3a0f57",
+        "size_in_bytes": 11094
+      },
+      {
+        "_path": "include/uv/threadpool.h",
+        "path_type": "hardlink",
+        "sha256": "09ae41099af710289155be012df45c2fce04da6a02e813278b4558935e645938",
+        "sha256_in_prefix": "09ae41099af710289155be012df45c2fce04da6a02e813278b4558935e645938",
+        "size_in_bytes": 1505
+      },
+      {
+        "_path": "include/uv/unix.h",
+        "path_type": "hardlink",
+        "sha256": "59489f65115965132ba484e779094a565b42fb45d0d16b8b247b019346c1194d",
+        "sha256_in_prefix": "59489f65115965132ba484e779094a565b42fb45d0d16b8b247b019346c1194d",
+        "size_in_bytes": 19817
+      },
+      {
+        "_path": "include/uv/version.h",
+        "path_type": "hardlink",
+        "sha256": "2e2a40f43c906503a37f25aa6eaa76c255e91c6d7c650a4b5d4a7b8e16fd7f9e",
+        "sha256_in_prefix": "2e2a40f43c906503a37f25aa6eaa76c255e91c6d7c650a4b5d4a7b8e16fd7f9e",
+        "size_in_bytes": 1831
+      },
+      {
+        "_path": "lib/libuv.1.dylib",
+        "path_type": "hardlink",
+        "sha256": "706136f1061936d14dfec9848acd0198415ce94de9d05bb89b257ac740ac6731",
+        "sha256_in_prefix": "706136f1061936d14dfec9848acd0198415ce94de9d05bb89b257ac740ac6731",
+        "size_in_bytes": 271360
+      },
+      {
+        "_path": "lib/libuv.a",
+        "path_type": "hardlink",
+        "sha256": "66e1f5c1d5e6c4241f5e546f69f62be9230c8daf297f212a4adb2ab3974142a1",
+        "sha256_in_prefix": "66e1f5c1d5e6c4241f5e546f69f62be9230c8daf297f212a4adb2ab3974142a1",
+        "size_in_bytes": 1203208
+      },
+      {
+        "_path": "lib/libuv.dylib",
+        "path_type": "softlink",
+        "sha256": "706136f1061936d14dfec9848acd0198415ce94de9d05bb89b257ac740ac6731",
+        "size_in_bytes": 271360
+      },
+      {
+        "_path": "lib/pkgconfig/libuv.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/libuv_1729322405254/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+        "sha256": "4dc05a1f38a951d659d2aae83dadee9491e19129203af83a3ca00ff9c521a5b0",
+        "sha256_in_prefix": "85072912e2c9351aee69d60a2df431556322d3ff077c3dcbabb6cf7ffbeda4c6",
+        "size_in_bytes": 558
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0e5176af1e788ad5006cf261c4ea5a288a935fda48993b0240ddd2e562dc3d02",
+  "size": 410500,
+  "subdir": "osx-arm64",
+  "timestamp": 1729322654000,
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libuv-1.49.2-h7ab814d_0.conda",
+  "version": "1.49.2"
+}

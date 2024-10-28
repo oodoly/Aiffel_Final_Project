@@ -1,0 +1,180 @@
+{
+  "build": "py39h06df861_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "__osx >=11.0",
+    "python >=3.9,<3.10.0a0",
+    "python >=3.9,<3.10.0a0 *_cpython",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/httptools-0.6.1-py39h06df861_1",
+  "files": [
+    "lib/python3.9/site-packages/httptools-0.6.1.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/httptools-0.6.1.dist-info/LICENSE",
+    "lib/python3.9/site-packages/httptools-0.6.1.dist-info/METADATA",
+    "lib/python3.9/site-packages/httptools-0.6.1.dist-info/RECORD",
+    "lib/python3.9/site-packages/httptools-0.6.1.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/httptools-0.6.1.dist-info/WHEEL",
+    "lib/python3.9/site-packages/httptools-0.6.1.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/httptools-0.6.1.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/httptools/__init__.py",
+    "lib/python3.9/site-packages/httptools/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/httptools/__pycache__/_version.cpython-39.pyc",
+    "lib/python3.9/site-packages/httptools/_version.py",
+    "lib/python3.9/site-packages/httptools/parser/__init__.py",
+    "lib/python3.9/site-packages/httptools/parser/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/httptools/parser/__pycache__/errors.cpython-39.pyc",
+    "lib/python3.9/site-packages/httptools/parser/errors.py",
+    "lib/python3.9/site-packages/httptools/parser/parser.cpython-39-darwin.so",
+    "lib/python3.9/site-packages/httptools/parser/url_parser.cpython-39-darwin.so"
+  ],
+  "fn": "httptools-0.6.1-py39h06df861_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/httptools-0.6.1-py39h06df861_1",
+    "type": 1
+  },
+  "md5": "1bdbf2bc9cd04c23e9292042861995d8",
+  "name": "httptools",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/httptools-0.6.1-py39h06df861_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/httptools-0.6.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools-0.6.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f4573e7cb7676745fb5b8d36fa548aa93e391cfb6872ddacd65130c45ea6a92d",
+        "sha256_in_prefix": "f4573e7cb7676745fb5b8d36fa548aa93e391cfb6872ddacd65130c45ea6a92d",
+        "size_in_bytes": 1093
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools-0.6.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "524b3432f9ecbd32482664507941c248b38ff91e69372c33415762f239322368",
+        "sha256_in_prefix": "524b3432f9ecbd32482664507941c248b38ff91e69372c33415762f239322368",
+        "size_in_bytes": 3583
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools-0.6.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "36c24cd295664eb43828c176a41347680513cd13e20ab4558994b97567381904",
+        "sha256_in_prefix": "36c24cd295664eb43828c176a41347680513cd13e20ab4558994b97567381904",
+        "size_in_bytes": 1423
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools-0.6.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools-0.6.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4c6f58f2c4d7b326b91014114bdc7bd2195b0c824598434750372dcd3fe02768",
+        "sha256_in_prefix": "4c6f58f2c4d7b326b91014114bdc7bd2195b0c824598434750372dcd3fe02768",
+        "size_in_bytes": 107
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools-0.6.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "3eabdd8716a58db8d43973a2d3ca150483ad1260203728d98e7f7090dfb2f2a7",
+        "sha256_in_prefix": "3eabdd8716a58db8d43973a2d3ca150483ad1260203728d98e7f7090dfb2f2a7",
+        "size_in_bytes": 97
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools-0.6.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "00f8c92936d9723d0e4387dd81fd9e4c293cda72b59f60455ce0fb932e3530f6",
+        "sha256_in_prefix": "00f8c92936d9723d0e4387dd81fd9e4c293cda72b59f60455ce0fb932e3530f6",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a65b773086ee78975ca3d0f2ef3a07de4b0b35eca2aea59a81ab79af0466023a",
+        "sha256_in_prefix": "a65b773086ee78975ca3d0f2ef3a07de4b0b35eca2aea59a81ab79af0466023a",
+        "size_in_bytes": 147
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "32b385c2d4e2e39d781b02f91fb401e0c60943abcad932143871c297093485d8",
+        "sha256_in_prefix": "32b385c2d4e2e39d781b02f91fb401e0c60943abcad932143871c297093485d8",
+        "size_in_bytes": 251
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools/__pycache__/_version.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e0273bdbc33bb6d53855c16cf7e9ab210ddc2c70943f8031717664c065551905",
+        "sha256_in_prefix": "e0273bdbc33bb6d53855c16cf7e9ab210ddc2c70943f8031717664c065551905",
+        "size_in_bytes": 161
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools/_version.py",
+        "path_type": "hardlink",
+        "sha256": "cba8ea02ec721b5a4a2253e0cff719fbb5af4778b763e0fe086943aa1687af73",
+        "sha256_in_prefix": "cba8ea02ec721b5a4a2253e0cff719fbb5af4778b763e0fe086943aa1687af73",
+        "size_in_bytes": 575
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools/parser/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7d6c9ca273c41d9949a23cd1c2604a4a7e02f393865e6284c2211c7631ea5cef",
+        "sha256_in_prefix": "7d6c9ca273c41d9949a23cd1c2604a4a7e02f393865e6284c2211c7631ea5cef",
+        "size_in_bytes": 166
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools/parser/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "451ecf984a33533487930029c360085073b03908578131dde8aca1262111de40",
+        "sha256_in_prefix": "451ecf984a33533487930029c360085073b03908578131dde8aca1262111de40",
+        "size_in_bytes": 239
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools/parser/__pycache__/errors.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a624a5a0c0f0f2029cfc771160e7cd7415a31d8fac3984d4b5de199fe72a7fa1",
+        "sha256_in_prefix": "a624a5a0c0f0f2029cfc771160e7cd7415a31d8fac3984d4b5de199fe72a7fa1",
+        "size_in_bytes": 1063
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools/parser/errors.py",
+        "path_type": "hardlink",
+        "sha256": "655aed375b263c86ffa2943651ddee09b1a534b32510260cdbee92eebe4b9c7b",
+        "sha256_in_prefix": "655aed375b263c86ffa2943651ddee09b1a534b32510260cdbee92eebe4b9c7b",
+        "size_in_bytes": 566
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools/parser/parser.cpython-39-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "e2821f5f11baafe5dc49075fa6e72bc70c6da7667064982d882744c3b969cd39",
+        "sha256_in_prefix": "e2821f5f11baafe5dc49075fa6e72bc70c6da7667064982d882744c3b969cd39",
+        "size_in_bytes": 181280
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httptools/parser/url_parser.cpython-39-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "e70c76ebbde7366a7d0e087d072d93f4892950c44ba3dfa46cce48ab29f307d9",
+        "sha256_in_prefix": "e70c76ebbde7366a7d0e087d072d93f4892950c44ba3dfa46cce48ab29f307d9",
+        "size_in_bytes": 116112
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ddb0c6cd13e5f0161bfdbe853fbec8b75a7b557009cc5ed48a826888495c9235",
+  "size": 77670,
+  "subdir": "osx-arm64",
+  "timestamp": 1726688397000,
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/httptools-0.6.1-py39h06df861_1.conda",
+  "version": "0.6.1"
+}
